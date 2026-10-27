@@ -1,0 +1,6 @@
+streamlit
+transformers>=4.45,<5
+torch
+PyMuPDF
+openpyxl
+streamlit run app.py
